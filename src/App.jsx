@@ -177,7 +177,7 @@ export default function App() {
                 : "bg-slate-200 hover:bg-slate-50"
             } rounded-md px-3 flex justify-center py-1 mx-2 h-10 ml-10 transition-all duration-300 hover:scale-105 active:scale-95`}
           >
-            {darktheme ? "🌙 Dark" : "☀ Light"}
+            {darktheme ? "🌙 lg: 🌙 dark " : " ☀ lg: ☀ light"}
           </button>
         </div>
 
